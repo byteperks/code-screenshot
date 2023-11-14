@@ -50,3 +50,10 @@ Don't wait any longer - unlock the world of code artistry with CodeSnap. Get sta
 
 ## Screenshots
 
+![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs1.png)
+![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs2.png)
+![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs3.png)
+![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs4.png)
+![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs5.png)
+![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs6.png)
+
