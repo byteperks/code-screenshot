@@ -1,4 +1,5 @@
 # Code Snap
+![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs1.png)
 CodeSnap is a website &amp; extension that allows you to Create, manage and share beautiful images of your code snippets.
 
 ## Elevating Code Visualization with CodeSnap: A Web & Chrome Extension for 40+ Languages
@@ -50,7 +51,7 @@ Don't wait any longer - unlock the world of code artistry with CodeSnap. Get sta
 
 ## Screenshots
 
-![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs1.png)
+
 ![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs2.png)
 ![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs3.png)
 ![Code Snap](https://raw.githubusercontent.com/byteperks/code-screenshot/main/screenshots/cs4.png)
